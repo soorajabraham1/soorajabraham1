@@ -4,7 +4,7 @@ Hi There
 
 
 
- I am really enthusiastic about expanding my knowledge in AI. In 2022, I started sharing mu learnings to to the world by blogging in medium and sharing the code in github and made a name for myself.
+🌱 I am really enthusiastic about expanding my knowledge in AI. In 2022, I started sharing mu learnings to to the world by blogging in medium and sharing the code in github.
 
 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from football, swimming and traveling with friends.
 
