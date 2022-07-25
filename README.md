@@ -10,7 +10,7 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 
 books I also love reading books on personal development & financial literacy. My favorite ones are The Alchemist by Paulo Coelho in the genre of Adventure and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy. 
 
-- 🌱 I’m currently learning **Generative Adversarial Networks and working on creating a site that can be used to colorize balack and white images.**
+- 🌱 I’m currently learning **Generative Adversarial Networks and working on creating a site that can be used to colorize black and white images.**
 
 - 📝 I  write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
