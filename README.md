@@ -4,15 +4,15 @@
 
 
 
-I am really enthusiastic about expanding my knowledge in AI. In 2022, I started sharing mu learnings to to the world by blogging in medium and sharing the code in github.
+I am really enthusiastic about expanding my knowledge in AI. In 2022, I started sharing my learnings to to the world by blogging in medium and sharing the code in github.
 
 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from football, swimming and traveling with friends.
 
 books I also love reading books on personal development & financial literacy. My favorite ones are The Alchemist by Paulo Coelho in the genre of Adventure and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy. 
 
-- 🌱 I’m currently learning **Generative Adversarial Networks**
+- 🌱 I’m currently learning **Generative Adversarial Networks and working on creating a site that can be used to colorize balack and white images.**
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I  write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
 - 📫 How to reach me **soorajabraham1@gmail.com**
 
